@@ -6,7 +6,7 @@ phases:
       java: corretto11
   build:
     commands:
-      - gradle build
+      - gradle build --info
   post_build:
     commands:
       - echo Build completed
