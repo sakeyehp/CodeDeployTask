@@ -1,6 +1,6 @@
 # CodeDeployTask
 
-##Dependencies
+### Dependencies
 sudo apt update
 sudo apt install -y ruby-full
 sudo apt install -y wget
@@ -14,9 +14,9 @@ sudo apt install -y git
 sudo apt-get -y install maven
 
 
-###Build Tool: 
+### Build Tool: 
 1. buildspec.yml
 
-###Continuous Delivery Tool:
+### Continuous Delivery Tool:
 1. appsec.yml
 2. scripts
