@@ -1,6 +1,6 @@
 # CodeDeployTask
 
-###Dependencies
+##Dependencies
 sudo apt update
 sudo apt install -y ruby-full
 sudo apt install -y wget
